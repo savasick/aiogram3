@@ -1,0 +1,11 @@
+/venv
+/src/__pycache__
+.env
+/src/db/__pycache__
+/src/db/models/__pycache__
+/src/config/__pycache__
+/src/handlers/__pycache__
+/src/keyboards/__pycache__
+/src/middlewares/__pycache__
+/src/config/__pycache__
+sqlite.db
